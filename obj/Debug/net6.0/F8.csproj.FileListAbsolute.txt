@@ -1,0 +1,15 @@
+C:\Users\Robz PC\repos\Ferrari\F8\bin\Debug\net6.0\F8.exe
+C:\Users\Robz PC\repos\Ferrari\F8\bin\Debug\net6.0\F8.deps.json
+C:\Users\Robz PC\repos\Ferrari\F8\bin\Debug\net6.0\F8.runtimeconfig.json
+C:\Users\Robz PC\repos\Ferrari\F8\bin\Debug\net6.0\F8.dll
+C:\Users\Robz PC\repos\Ferrari\F8\bin\Debug\net6.0\ref\F8.dll
+C:\Users\Robz PC\repos\Ferrari\F8\bin\Debug\net6.0\F8.pdb
+C:\Users\Robz PC\repos\Ferrari\F8\obj\Debug\net6.0\F8.csproj.AssemblyReference.cache
+C:\Users\Robz PC\repos\Ferrari\F8\obj\Debug\net6.0\F8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robz PC\repos\Ferrari\F8\obj\Debug\net6.0\F8.AssemblyInfoInputs.cache
+C:\Users\Robz PC\repos\Ferrari\F8\obj\Debug\net6.0\F8.AssemblyInfo.cs
+C:\Users\Robz PC\repos\Ferrari\F8\obj\Debug\net6.0\F8.csproj.CoreCompileInputs.cache
+C:\Users\Robz PC\repos\Ferrari\F8\obj\Debug\net6.0\F8.dll
+C:\Users\Robz PC\repos\Ferrari\F8\obj\Debug\net6.0\ref\F8.dll
+C:\Users\Robz PC\repos\Ferrari\F8\obj\Debug\net6.0\F8.pdb
+C:\Users\Robz PC\repos\Ferrari\F8\obj\Debug\net6.0\F8.genruntimeconfig.cache
